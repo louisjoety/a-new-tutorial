@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.# Tutorial-on-VCS-git
 I focus more on Git and GITHUB
 
 it now includes steps for github
+
+adding a new line locally to push back to git hub from bash
